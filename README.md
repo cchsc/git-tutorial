@@ -13,7 +13,7 @@ Members are:
   	5. Andrew Breedlove
 	6. Paxton Krehbiel
 
-	Conflict TEst
+	TEST
 
 ────────────────────────────────────────
 ──────────────────────▒████▒────────────
