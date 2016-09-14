@@ -10,7 +10,8 @@ Members are:
   	2. Adam Sawyer
   	3. Dave Chen
   	4. Akhil Vyas
-	5. Paxton Krehbiel
+  	5. Andrew Breedlove
+	6. Paxton Krehbiel
 
 ────────────────────────────────────────
 ──────────────────────▒████▒────────────
