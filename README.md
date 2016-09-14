@@ -1,2 +1,10 @@
-# git-tutorial
-Git Tutorial
+#Git Tutorial
+-------------
+
+Just a demo for git.
+
+This is owned by the CC Highschool Club.
+
+Members are:
+  1. Ujjwal Jung Pandey
+
