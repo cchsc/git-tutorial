@@ -1,7 +1,7 @@
 #Git Tutorial
 -------------
 
-Just a demo for git.
+Just a demo for git. minecraft is awesome.
 
 This is owned by the CC Highschool Club.
 
