@@ -12,7 +12,7 @@ Members are:
   4. Akhil Vyas
   5. Andrew Breedlove
 
-	Conflict TEst
+	Conflict Test
 
 ────────────────────────────────────────
 ──────────────────────▒████▒────────────
